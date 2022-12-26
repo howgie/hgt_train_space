@@ -8,5 +8,5 @@ class Parent:
 
 
 class Child(Parent):
-    def bye(self):　#子クラスで新たに定義したメソッド
+    def bye(self):  # dead line
         print("good bye")
